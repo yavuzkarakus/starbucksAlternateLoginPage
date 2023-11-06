@@ -8,7 +8,7 @@
 
 ## Project Screenshot
 
-![Login Page Screenshot]()
+![Login Page Screenshot](https://github.com/yavuzkarakus/starbucksAlternateLoginPage/blob/master/Starbucks%20-%20Alternative%20Log%20in%20Page.png)
 
 ## Project Features
 
@@ -25,4 +25,4 @@
 
 ## Special Thanks
 
-- [W3 Schools](https://www.w3schools.com/)
+- [W3Schools](https://www.w3schools.com/)
